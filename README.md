@@ -1,5 +1,5 @@
 # 💞 Hi, I’m Natalia 💞
-## ME
+## PROFILE
 <img align="right" width=300px  src="gif.gif">
 
 
