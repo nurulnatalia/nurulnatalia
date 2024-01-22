@@ -1,5 +1,5 @@
 # 💞 Hi, I’m Natalia 💞
-<img align="right" alt="Waving" width=280px src="gif.gif">
+<img align="right" width=280px src="gif.gif">
 
 
 
