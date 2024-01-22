@@ -1,4 +1,4 @@
-# 💞️ Hi, I’m Natalia
+# 💞 Hi, I’m Natalia 💞
 ![](gif.gif)
 
 
