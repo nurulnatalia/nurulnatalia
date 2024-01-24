@@ -1,5 +1,5 @@
 
-# 💕.·´¯`·.·★  🎀𝓗𝓘 , 𝓘𝓜 𝓝𝓐𝓣𝓐𝓛𝓘𝓐🎀  ★·.·`¯´·.💞 
+# 💕.·´¯`·.·★  🎀𝓗𝓘 , 𝓘𝓜 𝓝𝓐𝓣𝓐𝓛𝓘𝓐🎀  ★·.·`¯´💞 
 Hello,my name is Nurul Natalia Binti Rosnizam. I am studying at
 [Universiti Teknologi Malaysia](https://www.utm.my)<BR>
 <img align="right" alt="Coding" width="300px" src="gif.gif">
