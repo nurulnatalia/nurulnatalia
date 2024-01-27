@@ -16,11 +16,14 @@ Personally,i was learned 2 language of programming which :<BR>
 🏫 Study at University Technology Malaysia<BR>
 📝 Learning COMPUTER SCIENCE<BR>
 🏠 Stayed at Pasir Gudang , Johor<BR>
+📝 [here](
 
 ---
 
 ### 📚 𝓢𝓔𝓜𝓔𝓢𝓣𝓔𝓡 1
-You can click [here](https://github.com/nurulnatalia/SEM-1.git) for my project during semester 1 for the 1st year.<BR>
+You can click [here](https://github.com/nurulnatalia/SEM-1.git) for my project during semester 1 for the 1st year and click[TIS](https://github.com/nurulnatalia/Technology-and-Information-System.git) for my Projects.<BR>
+
+
 
 
 
