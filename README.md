@@ -16,7 +16,7 @@ Personally,i was learned 2 language of programming which :<BR>
 🏫 Study at University Technology Malaysia<BR>
 📝 Learning COMPUTER SCIENCE<BR>
 🏠 Stayed at Pasir Gudang , Johor<BR>
-📝 [here](
+📝 [here](http://127.0.0.1:5500/index.html) for my full portfolio
 
 ---
 
